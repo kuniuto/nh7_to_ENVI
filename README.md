@@ -30,3 +30,9 @@ python nh72envi_demo.py
 | Data | Digital Number after dark current subtraction | reflectance |
 | Data type | uint16 | float32 |
 | Interleave | BIL | BSQ |
+
+## Specification of sensor (Eba japan's NH-7)
+| Image resolution | 1280×1024 |
+| Wavelength band | 350-1100 nm |
+| Spectral resolution | 5 nm |
+| Data output | 10 bit |
