@@ -1,8 +1,8 @@
-# Converting nh7 file to reflectance ENVI file
+# Converting nh7 file to reflectance ENVI files
 
 ## Introduction
 
-This project is for converting nh7 file (measured by Eba Jpans's NH-7 hyperspectral sensor) to reflectance data in more general ENVI file that is a standard hyperspectral data format.
+This project is for converting nh7 file (measured by Eba Jpans's NH-7 hyperspectral sensor) to reflectance data in more general ENVI files that is a standard hyperspectral data format.
 
 ## How does it work?
 1. **Running code**
@@ -12,7 +12,10 @@ python nh72envi_demo.py
 ```
 
 2. **Selecting area of white diffuse reflectance standard**
-   -Select area of white diffuse reflectance standard and, then, type `space` key.
+   -Select area of white diffuse reflectance standard. Type `space` key and, then, `Enter` key.
+
+3. **Generating reflectance ENVI file**
+   -Reflectance ENVI files (heder (.hdr) and data (.dat) files) are generated.
 
 ## Data format
 | | nh7 format | converted ENVI format|
