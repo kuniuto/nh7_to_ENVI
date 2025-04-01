@@ -6,19 +6,19 @@ This project is for converting nh7 file (measured by Eba Jpans's NH-7 hyperspect
 
 ## How does it work?
 1. **Running code**
-  -After installing necessary dependencies, specify `fname1` (nh7 file name with white reference) and `fname2` (nh7 file name with/without white reference) in `nh72envi_demo.py`, then run the following command:
+  - After installing necessary dependencies, specify `fname1` (nh7 file name with white reference) and `fname2` (nh7 file name with/without white reference) in `nh72envi_demo.py`, then run the following command:
 ```bash
 python nh72envi_demo.py
 ```
 
 2. **Selecting area of white diffuse reflectance standard**
-   -Select area of white diffuse reflectance standard. Type `space` key and, then, `Enter` key.
+   - Select area of white diffuse reflectance standard. Type `space` key and, then, `Enter` key.
 
 **Selecting area of white diffuse reflectance standard**:
 ![RoI WDRS](asset/RoI_selection.png)
 
 4. **Generating reflectance ENVI file**
-   -Reflectance ENVI files (heder (.hdr) and data (.dat) files) are generated.
+   - Reflectance ENVI files (heder (.hdr) and data (.dat) files) are generated.
 
 ## Data format
 | | nh7 format | converted ENVI format|
