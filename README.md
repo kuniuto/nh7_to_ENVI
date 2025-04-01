@@ -21,7 +21,7 @@ python nh72envi_demo.py
 ![RoI WDRS](asset/RoI_selection.png)
 
 4. **Generating reflectance ENVI file**
-   - Reflectance ENVI files (heder (.hdr) and data (.dat) files) are generated.
+   - Reflectance ENVI files (heder (.hdr) and data (.dat) files) and color image (jpeg) are generated.
 
 ---
 ## Data format
