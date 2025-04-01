@@ -31,7 +31,7 @@ python nh72envi_demo.py
 | Data type | uint16 | float32 |
 | Interleave | BIL | BSQ |
 
-## Specification of sensor (Eba japan's NH-7)
+## Specification of sensor (NH-7, Eva Japan)
 Attribute | Value
 ---|---
 Image resolution | 1280×1024
