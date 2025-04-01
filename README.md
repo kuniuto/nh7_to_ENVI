@@ -6,7 +6,7 @@ This project is for converting nh7 file (measured by Eba Jpans's NH-7 hyperspect
 
 ## How does it work?
 1. **Running code**
-  - After installing necessary dependencies, specify `fname1` (nh7 file name with white reference) and `fname2` (nh7 file name with/without white reference) in `nh72envi_demo.py`, then run the following command:
+   - After installing necessary dependencies, specify `fname1` (nh7 file name with white reference) and `fname2` (nh7 file name with/without white reference) in `nh72envi_demo.py`, then run the following command:
 ```bash
 python nh72envi_demo.py
 ```
