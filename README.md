@@ -11,7 +11,8 @@ This project is for converting nh7 file (measured by Eba Jpans's NH-7 hyperspect
 python nh72envi_demo.py
 ```
 
-2. **
+2. **Selecting area of white diffuse reflectance standard**
+   -Select area of white diffuse reflectance standard and, then, type `space` key.
 
 ## Data format
 | | nh7 format | converted ENVI format|
