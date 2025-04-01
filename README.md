@@ -14,7 +14,10 @@ python nh72envi_demo.py
 2. **Selecting area of white diffuse reflectance standard**
    -Select area of white diffuse reflectance standard. Type `space` key and, then, `Enter` key.
 
-3. **Generating reflectance ENVI file**
+**Selecting area of white diffuse reflectance standard**:
+![RoI WDRS](asset/RoI_selection.png)
+
+4. **Generating reflectance ENVI file**
    -Reflectance ENVI files (heder (.hdr) and data (.dat) files) are generated.
 
 ## Data format
