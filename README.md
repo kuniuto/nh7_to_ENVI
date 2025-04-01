@@ -17,7 +17,7 @@ python nh72envi_demo.py
 3. **Selecting area of white diffuse reflectance standard**
    - Select area of white diffuse reflectance standard. Type `space` key and, then, `Enter` key.
 
-**Selecting area of white diffuse reflectance standard**:
+**Selecting area (blue bbox) of white diffuse reflectance standard**:
 ![RoI WDRS](asset/RoI_selection.png)
 
 4. **Generating reflectance ENVI file**
