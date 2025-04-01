@@ -11,12 +11,10 @@ python nh72envi_demo.py
 ```
 
 2. **
-- Input: nh7 file
-- Output: ENVI file (reflecntace, interleave=BSQ, data type=32-bit single-precision, byte order=host (Intel))
 
-data format
+## Data format
 | | nh7 format | converted ENVI format|
 | ---- | ---- | ---- |
-| Data | Digital number after dark current subtraction | reflectance |
+| Data | Digital Number after dark current subtraction | reflectance |
 | Data type | uint16 | float32 |
 | Interleave | BIL | BSQ |
